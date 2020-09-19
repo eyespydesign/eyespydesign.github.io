@@ -32,6 +32,29 @@
         <p>We offer a variety of items to suit your needs.</p>
         </section>
     </div><br>
-        <!--<nav><a href="order.html">Order now!</a></nav>-->
+     <script>
+<!--
+// Email obfuscator script 2.1 by Tim Williams, University of Arizona
+// Random encryption key feature coded by Andrew Moulden
+// This code is freeware provided these four comment lines remain intact
+// A wizard to generate this code is at http://www.jottings.com/obfuscator/
+{ coded = "ISI89S0I8OVf62@2vKt22c.62C"
+  key = "9ryDi0L8gwUXWHtPoC3cqn4IEYuaSAOMR1V7pJhQKd2sz6Nf5FlZvmbkGjTexB"
+  shift=coded.length
+  link=""
+  for (i=0; i<coded.length; i++) {
+    if (key.indexOf(coded.charAt(i))==-1) {
+      ltr = coded.charAt(i)
+      link += (ltr)
+    }
+    else {     
+      ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
+      link += (key.charAt(ltr))
+    }
+  }
+document.write("<nav><a href='mailto:"+link+"'>Email us!</a>"</nav>)
+}
+//-->
+</script><noscript>You can email us at eyespydesignco at outlook dot com, or enable javascript to do that directly.k</noscript>
 </body>
 </html>
