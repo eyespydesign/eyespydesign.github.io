@@ -15,7 +15,7 @@ body {
     background-color: #E7FA98
 }
 
-#websites {
+#programs {
     padding: 5%;
     padding-left: 5%;
     background-color: #165553;
@@ -37,7 +37,7 @@ body {
     font-weight:100
 }
 
-#website-title {
+#program-title {
     font-family: 'Roboto', serif;
     font-size: 200%
 }
