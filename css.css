@@ -48,9 +48,12 @@
      font-size: 200%
  }
 
- #title {
+ h1 {
      font-family: 'Rokkitt', serif;
-     font-size: 400%
+     font-size: 400%;
+     position: relative;
+     left: 35%;
+     top: 0%
  }
 
  #slogan {
