@@ -2,89 +2,111 @@
  @import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
  @import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
  @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&family=Rokkitt:wght@500&display=swap');
-* {
-    font-family: 'Roboto', sans-serif;
-    
-}
-body {
-    background-color: #FDF7ED
-}
 
-#logos {
-    padding: 5%;
-    background-color: #E7FA98
-}
+ * {
+     font-family: 'Roboto', sans-serif;
 
-#websites {
-    padding: 5%;
-    padding-left: 5%;
-    background-color: #165553;
-}
-* {
-    background: inherit;
-}
-#stationary {
-    padding: 5%;
-    background-color: #E9A933;
-}
-#stationary-title {
-    font-family: 'Satisfy', cursive;
-    font-size: 200%
-}
-#logos-title {
-    font-family: 'Cormorant Garamond', serif;
-    font-size: 200%;
-    font-weight:100
-}
+ }
 
-#website-title {
-    font-family: 'Roboto', serif;
-    font-size: 200%
-}
+ body {
+     background-color: #FDF7ED
+ }
 
-#title {
-    font-family: 'Rokkitt', serif;
-    font-size: 400%
-}
+ #logos {
+     padding: 5%;
+     background-color: #E7FA98
+ }
 
-#slogan {
-    font-size: 200%
-}
+ #websites {
+     padding: 5%;
+     padding-left: 5%;
+     background-color: #165553;
+ }
+
+ * {
+     background: inherit;
+ }
+
+ #stationary {
+     padding: 5%;
+     background-color: #E9A933;
+ }
+
+ #stationary-title {
+     font-family: 'Satisfy', cursive;
+     font-size: 200%
+ }
+
+ #logos-title {
+     font-family: 'Cormorant Garamond', serif;
+     font-size: 200%;
+     font-weight: 100
+ }
+
+ #website-title {
+     font-family: 'Roboto', serif;
+     font-size: 200%
+ }
+
+ #title {
+     font-family: 'Rokkitt', serif;
+     font-size: 400%
+ }
+
+ #slogan {
+     font-size: 200%
+ }
 
 
-#more {
-    background-color: #F17762;
-    padding: 5%;
-    
-}
-#more-title {
-    font-family: 'Amatic SC', cursive;
-    font-size: 300%;
-}
+ #more {
+     background-color: #F17762;
+     padding: 5%;
 
-nav {
-    font-size: 250%;
-    size: 200%;
-    padding: 5%
-}
-a {
-    color: #165553
-}
-a:hover {
-    background-color: #FFFFFF;
-}
-a:active {
-    background-color: #FDF7ED;
-}
-a:visited {
-    color: #165553
-}
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 10%;
-  position: absolutes;
-  border-radius: 50%;
-  float: right;
-}
+ }
+
+ #more-title {
+     font-family: 'Amatic SC', cursive;
+     font-size: 300%;
+ }
+
+ nav {
+     font-size: 250%;
+     size: 200%;
+     padding: 5%
+ }
+
+ a {
+     color: #165553
+ }
+
+ a:hover {
+     background-color: #FFFFFF;
+ }
+
+ a:active {
+     background-color: #FDF7ED;
+ }
+
+ a:visited {
+     color: #165553
+ }
+
+ #logo {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 10%;
+     position: absolutes;
+     border-radius: 50%;
+     float: right;
+ }
+
+ iframe {
+     background-color: #FFFFFF;
+     width: 500;
+     height: 500;
+ }
+
+ img {
+     width: 300;
+ }
